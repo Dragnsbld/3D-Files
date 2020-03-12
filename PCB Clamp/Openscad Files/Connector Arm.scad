@@ -1,3 +1,5 @@
+//This file was created by Russell Cygan. Creation of this design is for personal use only.
+
 include<threads.scad>;
   
 // cylinder(d=6,h=2.25,$fn=30);
