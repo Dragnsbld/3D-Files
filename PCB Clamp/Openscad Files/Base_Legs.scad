@@ -1,3 +1,5 @@
+//This file was created by Russell Cygan. Creation of this design is for personal use only.
+
 module snap(){
     cylinder(d=5.5,h=26.4,$fn=30);
     translate([0,0,26.4]) cylinder(d1=7, d2=5, h=6, $fn=30);
