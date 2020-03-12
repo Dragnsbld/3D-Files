@@ -1,3 +1,5 @@
+//This file was created by Russell Cygan. Creation of this design is for personal use only.
+
 include<threads.scad>;
 module Arm(){
     union(){
